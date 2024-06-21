@@ -1,0 +1,38 @@
+{
+  "educationQuestions": [
+    "What is your highest level of education completed?",
+    "How satisfied are you with the education you received?",
+    "What was your primary field of study?",
+    "How relevant is your education to your current job?",
+    "Do you feel your education prepared you well for your career?",
+    "What additional skills do you wish you had learned during your education?",
+    "How often do you engage in continuing education or professional development?",
+    "What is your preferred method of learning (e.g., online, in-person, hybrid)?",
+    "How do you rate the quality of the education system in your country?",
+    "What improvements would you suggest for the education system?"
+  ],
+  "healthQuestions": [
+    "How would you rate your overall health?",
+    "How often do you engage in physical exercise?",
+    "What is your primary source of health information?",
+    "How frequently do you visit a healthcare provider?",
+    "Are you satisfied with the healthcare services available to you?",
+    "What type of diet do you follow (e.g., vegetarian, vegan, non-vegetarian)?",
+    "How often do you experience stress?",
+    "Do you have access to mental health resources?",
+    "How do you rate the quality of healthcare in your country?",
+    "What improvements would you suggest for the healthcare system?"
+  ],
+  "technologyQuestions": [
+    "What is your favorite programming language?",
+    "How many years of experience do you have in technology?",
+    "How often do you update your technical skills?",
+    "What is your preferred platform for learning new tech skills?",
+    "How do you rate the impact of technology on your daily life?",
+    "Which technology trends are you most excited about?",
+    "How do you stay updated with the latest tech developments?",
+    "What is the biggest challenge you face in your tech career?",
+    "How satisfied are you with the technology tools you use at work?",
+    "What improvements would you suggest for the technology industry?"
+  ]
+}
